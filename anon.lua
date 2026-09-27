@@ -29,6 +29,12 @@ local GAMES = {
         placeId = 95721658376580,
         url = "https://raw.githubusercontent.com/kat068770/ANONHUB/refs/heads/main/mtc.lua",
     },
+    {
+        key = "digger",
+        name = "Digger",
+        placeId = 91192262377581,
+        url = "https://raw.githubusercontent.com/kat068770/ANONHUB/refs/heads/main/digger.lua",
+    },
 }
 
 local currentGame = nil
